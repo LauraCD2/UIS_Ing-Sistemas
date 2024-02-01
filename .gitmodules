@@ -4,3 +4,6 @@
 [submodule "2. Estructuras de Datos y Análisis de Algoritmos 22955 2023-1"]
 	path = 2. Estructuras de Datos y Análisis de Algoritmos 22955 2023-1
 	url = https://github.com/laucamidiaz3008/EdD-AdA
+[submodule "3. Electricidad y Electrónica 22957 2023-2"]
+	path = 3. Electricidad y Electrónica 22957 2023-2
+	url = https://github.com/LauraCD2/electricidad_electronica_22957
